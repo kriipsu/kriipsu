@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @kriipsu
+- 👀 I’m interested in learning to code and become a software engineer
+- 🔬 I am currently an IT analyst
+- 🌱 I’m learning mostly Java, Spring and SQL but have also looked into HTML/CSS/JS and Python. 
